@@ -1,0 +1,2 @@
+number = true
+extensions = ["frontmatter", "obsidian", "wikilink", "simple_breaks", "tables"]

@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://json.schemastore.org/clang-format
+---
+Language: Cpp
+BasedOnStyle: Google
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+BreakBeforeBinaryOperators: NonAssignment
+ColumnLimit: 120

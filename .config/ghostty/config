@@ -1,0 +1,6 @@
+theme = evergarden-winter-green
+confirm-close-surface = false
+font-size = 14
+font-family = GeistMono Nerd Font
+background-opacity = 0.94162189
+background-opacity-cells = true
