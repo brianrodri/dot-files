@@ -1,0 +1,5 @@
+# Use GitHub-style heading slugs in completions (spaces replaced with dashes)
+# When false (default), completions insert headings with spaces: [[file#My Heading]]
+# When true, completions insert headings with dashes: [[file#My-Heading]]
+# Note: Go-to-definition and diagnostics always resolve both forms regardless of this setting
+heading_slug = true

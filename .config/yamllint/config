@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://json.schemastore.org/yamllint
+---
+yaml-files:
+  - "*.yaml"
+  - "*.yml"
+  - ".ymllint"
+extends: default
+rules:
+  line-length: disable
